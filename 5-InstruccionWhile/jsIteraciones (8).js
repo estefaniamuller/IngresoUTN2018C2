@@ -1,4 +1,4 @@
-function mostrar()
+function Mostrar()
 {
 
 	var contador=0;
